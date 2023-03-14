@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae923f02.css",
-    "main.js": "/static/js/main.44143391.js",
-    "static/js/787.918cb2e0.chunk.js": "/static/js/787.918cb2e0.chunk.js",
-    "static/media/VisbyCF-Medium.otf": "/static/media/VisbyCF-Medium.03ab2ebed9bb39b5e40c.otf",
-    "static/media/logo.svg": "/static/media/logo.9cc894cd4559e765e5ab61d92a36c13e.svg",
-    "index.html": "/index.html",
-    "main.ae923f02.css.map": "/static/css/main.ae923f02.css.map",
-    "main.44143391.js.map": "/static/js/main.44143391.js.map",
-    "787.918cb2e0.chunk.js.map": "/static/js/787.918cb2e0.chunk.js.map"
+    "main.css": "./static/css/main.9742d7ca.css",
+    "main.js": "./static/js/main.c14186a3.js",
+    "static/js/787.918cb2e0.chunk.js": "./static/js/787.918cb2e0.chunk.js",
+    "static/media/VisbyCF-Medium.otf": "./static/media/VisbyCF-Medium.03ab2ebed9bb39b5e40c.otf",
+    "static/media/logo.svg": "./static/media/logo.9cc894cd4559e765e5ab61d92a36c13e.svg",
+    "index.html": "./index.html",
+    "main.9742d7ca.css.map": "./static/css/main.9742d7ca.css.map",
+    "main.c14186a3.js.map": "./static/js/main.c14186a3.js.map",
+    "787.918cb2e0.chunk.js.map": "./static/js/787.918cb2e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae923f02.css",
-    "static/js/main.44143391.js"
+    "static/css/main.9742d7ca.css",
+    "static/js/main.c14186a3.js"
   ]
 }
